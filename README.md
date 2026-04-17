@@ -3,7 +3,8 @@ I'm currently working on learning more about PowerShell Scripting and Infrastruc
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petar-zujovic-2b499626b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petar-zujovic-2b499626b)
+[![DevOps-HomeLab Wiki](https://img.shields.io/badge/DevOps--HomeLab%20Wiki-000000?logo=bookstack&logoColor=white)](https://wiki.devops-homelab.net/)
 
 # 💻 Tech Stack:
 
